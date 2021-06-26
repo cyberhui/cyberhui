@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**cyberhui/cyberhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programmes / Events
+##### BuildingBloCS 2021  
+##### Youth Cyber Exploration Programme 2021
+##### Cyber Youth Singapore (CYS) Summit 2021
+<br>
 
-Here are some ideas to get you started:
+### Competitions
+##### YCEP Capture-the-Flag 
+##### CYSummit Capture-the-Flag (22nd Place) 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently studying:
+##### Python 
+
