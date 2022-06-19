@@ -21,6 +21,7 @@
 ### Academic Achievements
 ##### Edusave Scholarship 2021
 ##### Excellence Award (Class) 2021
+<br>
 
 ### Currently studying:
 ##### Python 
