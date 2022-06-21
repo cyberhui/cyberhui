@@ -9,7 +9,7 @@
 ##### SINCON 2021
 ##### Youth Cyber Exploration Programme 2022
 ##### BuildingBloCS March Conference 2022
-##### Cyber Defenders Challenge 2022
+##### Cyber Defenders Challenge 2022 (High Distinction)
 <br>
 
 ### Competitions
