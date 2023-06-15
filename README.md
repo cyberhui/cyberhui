@@ -1,28 +1,47 @@
-
-### Programmes / Events
-##### BuildingBloCS June Conference 2021  
-##### Youth Cyber Exploration Programme 2021
-##### Cyber Youth Singapore (CYS) Summit 2021
-##### Computing Enrichment Programme 2021
-##### Advanced Youth Cyber Exploration Programme 2021
-##### Learnhack by The Cyber@ssembly 2021
-##### SINCON 2021
-##### Youth Cyber Exploration Programme 2022
-##### BuildingBloCS March Conference 2022
-##### Cyber Defenders Challenge 2022 (High Distinction)
+<h3> Programmes / Events</h3>
+<article>
+  <ul>
+    <li>BuildingBloCS June Conference 2021 </li>
+    <li>Youth Cyber Exploration Programme 2021</li>
+    <li>Cyber Youth Singapore (CYS) Summit 2021</li>
+    <li>Computing Enrichment Programme 2021</li>
+    <li>Advanced Youth Cyber Exploration Programme 2021</li>
+    <li>Learnhack by The Cyber@ssembly 2021</li>
+    <li> SINCON 2021</li>
+    <li>Youth Cyber Exploration Programme 2022</li>
+    <li>BuildingBloCS March Conference 2022</li>
+    <li>Cyber Defenders Challenge 2022 (High Distinction)</li>
+  </ul>
+</article>
 <br>
 
-### Competitions
-##### YCEP Capture-the-Flag 2021 
-##### CYSummit Capture-the-Flag 2021 (22nd Place) 
-##### YCEP Capture-the-Flag 2022 (23rd Place)
+<h3>Competitions</h3>
+<article>
+  <ul>
+    <li>YCEP Capture-the-Flag 2021  </li>
+    <li>CYSummit Capture-the-Flag 2021 (22nd Place) </li>
+    <li>YCEP Capture-the-Flag 2022 (23rd Place)</li>
+  </ul>
+</article>
 <br>
 
-### Academic Achievements
-##### Edusave Scholarship 2021
-##### Excellence Award (Class) 2021
+<h3>Academic Achievements</h3>
+<article>
+  <ul>
+    <li>Edusave Scholarship 2021  </li>
+    <li>Excellence Award (Class) 2021 </li>
+  </ul>
+</article>
 <br>
 
-### Currently studying:
-##### Python 
+<h3>Skills Acquired</h3>
+<article>
+  <ul>
+    <li> Python </li>
+    <li> Front-End Web Development</li>
+    <li>Javascript</li>
+    <li>Linux</li>
+  </ul>
+</article>
+<br>
 
