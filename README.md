@@ -11,6 +11,7 @@
     <li>Youth Cyber Exploration Programme 2022</li>
     <li>BuildingBloCS March Conference 2022</li>
     <li>Cyber Defenders Challenge 2022 (High Distinction)</li>
+    <li>TryHackMe Linux Fundamentals Self-Initiated Learning 2023</li>
   </ul>
 </article>
 <br>
@@ -30,6 +31,9 @@
   <ul>
     <li>Edusave Scholarship 2021  </li>
     <li>Excellence Award (Class) 2021 </li>
+    <li>Edusave Scholarship 2022</li>
+    <li>Excellence Award (National Examination) 2022</li>
+    <li>School Advisory Committee Outstanding Performance Award 2022</li>
   </ul>
 </article>
 <br>
